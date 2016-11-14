@@ -1,11 +1,10 @@
 {
-  "name": "superbalist/php-pubsub-kafka",
+  "name": "takatost/php-pubsub-kafka",
   "description": "A Kafka adapter for the php-pubsub package",
   "license": "MIT",
   "authors": [
     {
-      "name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
-      "email": "info@superbalist.com"
+      "email": "takatost@gmail.com"
     }
   ],
   "require": {
